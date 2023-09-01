@@ -79,7 +79,7 @@ async function onSubmitForm() {
         <h4 class="text-3xl">Contact</h4>
 
         <NuxtLink to="https://mail.google.com/mail/?view=cm&fs=1&to=sourish215@gmail.com" target="_blank">
-          <p class="text-xl hover:text-[#00dc81]">sourish215@gmail.com</p>
+          <p class="text-xl hover:text-[#00dc81]">sourish.bht@gmail.com</p>
         </NuxtLink>
         <h4 class="mt-10 text-3xl">Based in</h4>
         <p class="text-xl">Kolkata,<br />India</p>
